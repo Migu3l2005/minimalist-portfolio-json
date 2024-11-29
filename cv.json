@@ -50,7 +50,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and we migrated a monolithic architecture to a more flexible and optimized one. I promoted good practices and improvements in performance culture, in addition to rapid delivery of value to users.",
+      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimized one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
       "highlights": [
         "Started the company"
       ]
@@ -60,9 +60,21 @@
       "position": "Senior FrontEnd Developer",
       "startDate": "2011-03-01",
       "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. I scaled the services to support the load of more than hundreds of thousands of requests per day. I cut delivery and production deployment times in half. I collaborated with Mozilla and Telefónica to develop the first app for televisions with FirefoxOS.",
+      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
       "highlights": [
         "Started the company"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Luis Garcia",
+      "type": "Professional Reference",
+      "url": "https://linkedin.com/in/luisgarcia",
+      "position": "Software Engineer at XYZ",
+      "contact": [
+        "Phone: +34611223345",
+        "Email: luis.garcia@example.com"
       ]
     }
   ],
@@ -73,7 +85,7 @@
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Description…",
+      "summary": "Description of the volunteer work",
       "highlights": [
         "Awarded 'Volunteer of the Month'"
       ]
@@ -83,10 +95,10 @@
     {
       "institution": "Universitat Pablo de Olavide",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Software Engineer",
+      "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2018-09-05",
-      "endDate": "2022-05-8",
+      "endDate": "2022-05-08",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -98,7 +110,7 @@
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
-      "summary": "There is no spoon."
+      "summary": "Description of the award"
     }
   ],
   "certificates": [
@@ -115,7 +127,7 @@
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
-      "summary": "Description…"
+      "summary": "Description of the publication"
     }
   ],
   "skills": [
@@ -123,77 +135,77 @@
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Web developer", "Frontend"
+        "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Disegn Responsive"
+        "Web development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Web developer", "Frontend", "Backend", "Fullstack"
+        "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Web developer", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web development", "Frontend", "CSS Framework", "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Web developer", "Frontend", "Backend", "JavaScript Superset"
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Web developer", "Backend", "JavaScript", "Servidor"
+        "Web development", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Web developer", "SQL", "Almacenamiento de Datos", "Backend"
+        "Databases", "SQL", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Version Control", "Colaboration", "Source Code"
+        "Version control", "Collaboration", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Version Control", "Colaboration", "Source Code", "Git"
+        "Version control", "Collaboration", "Source code", "Git"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Web developer", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Advance",
+      "level": "Advanced",
       "keywords": [
-        "Web developer", "Frontend", "JavaScript Library", "UI"
+        "Web development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -216,30 +228,24 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Luis Garcia",
-      "reference": "Reference…"
-    }
-  ],
   "projects": [
     {
       "name": "mars.codes",
       "isActive": true,
       "description": "Interactive story with programming challenges to travel to Mars",
       "highlights": [
-        "Choose your Adventure",
-        "In develop"
+        "Choose your own adventure",
+        "In progress"
       ],
       "url": "https://mars.codes"
     },
     {
       "name": "AdventJS",
       "isActive": true,
-      "description": "Programming challenges in JavaScript every day until Christmas in December",
+      "description": "JavaScript programming challenges for every day of December until Christmas",
       "highlights": [
         "+1 million visits",
-        "Multilingual",
+        "Multilanguage",
         "JavaScript & TypeScript"
       ],
       "url": "https://adventjs.dev"
@@ -257,18 +263,18 @@
     {
       "name": "codi.link",
       "isActive": true,
-      "description": "HTML, CSS, and JavaScript code playground for sharing",
+      "description": "Playground of HTML, CSS, and JavaScript code for sharing",
       "highlights": [
-        "100k visits per month",
-        "Community-driven"
+        "100k monthly visits",
+        "Developed by the community"
       ],
       "url": "https://codi.link",
       "github": "https://github.com/Migu3l2005/codi.link"
     },
     {
-      "name": "Technical Challenges",
+      "name": "Pruebas Técnicas",
       "isActive": true,
-      "description": "List of technical challenges from companies to practice programming",
+      "description": "List of technical tests of companies to practice programming",
       "highlights": [
         "100% free",
         "+500 community solutions"
@@ -278,9 +284,12 @@
     },
     {
       "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top-notch talks",
+      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
       "highlights": [
-        "+15k tickets distributed",
+        "+15k tickets handed out",
         "+50k live viewers"
       ],
-      "url": "https://miduconf.com
+      "url": "https://miduconf.com"
+    }
+  ]
+}
