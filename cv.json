@@ -47,7 +47,7 @@
     {
       "name": "Adevinta",
       "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://www.adevinta.com",  // Corregido URL
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
       "summary": "I led a technical convergence between different products and we migrated a monolithic architecture to a more flexible and optimized one. I promoted good practices and improvements in performance culture, in addition to rapid delivery of value to users.",
@@ -66,48 +66,58 @@
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Pablo de Olavide",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2018-09-05",
-    "endDate": "2022-05-8",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Pablo de Olavide",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-05",
+      "endDate": "2022-05-08",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
@@ -120,7 +130,7 @@
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Disegn Responsive"
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
@@ -197,79 +207,5 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Luis Garcia",
-    "reference": "Reference…"
-  }],
-  "projects": [
+  "interests": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
-      "highlights": [
-        "Choose your Adventure",
-        "In develope"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-  "name": "AdventJS",
-  "isActive": true,
-  "description": "Programming challenges in JavaScript every day until Christmas in December",
-  "highlights": [
-    "+1 million visits",
-    "Multilingual",
-    "JavaScript & TypeScript"
-  ],
-  "url": "https://adventjs.dev"
-},
-{
-  "name": "Codember",
-  "isActive": true,
-  "description": "Interactive programming game with challenges and secrets",
-  "highlights": [
-    "+2000 active users",
-    "Challenges for any language"
-  ],
-  "url": "https://codember.dev"
-},
-{
-  "name": "codi.link",
-  "isActive": true,
-  "description": "HTML, CSS, and JavaScript code playground for sharing",
-  "highlights": [
-    "100k visits per month",
-    "Community-driven"
-  ],
-  "url": "https://codi.link",
-  "github": "https://github.com/Migu3l2005/codi.link"
-},
-{
-  "name": "Technical Challenges",
-  "isActive": true,
-  "description": "List of technical challenges from companies to practice programming",
-  "highlights": [
-    "100% free",
-    "+500 community solutions"
-  ],
-  "url": "https://pruebastecnicas.com",
-  "github": "https://github.com/midudev/pruebas-tecnicas"
-},
-{
-  "name": "miduConf",
-  "description": "Streaming programming conference for the Spanish-speaking community with top-notch talks",
-  "highlights": [
-    "+15k tickets distributed",
-    "+50k live viewers"
-  ],
-  "url": "https://miduconf.com"
-}
-  ]
-}
